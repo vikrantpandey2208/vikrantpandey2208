@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vikrantpandey2208
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently learning Mern Stack
+- I am working on MERN stack based project
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me vikrantpandey466@gmail.com
 
